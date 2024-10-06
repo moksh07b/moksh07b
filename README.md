@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @moksh07b<br>👀 I’m interested in Computers and Arduinos and Raspbeery Pi's<br>🌱 I’m currently learning Fundamentels of Linux OS, DSA, Raspberry Pi and Front-End and then will carry on to Cyber-Security.
+👋 Hi, I’m @moksh07b<br>👀 I’m interested in Computers, Arduinos and Raspbeery Pi's<br>🌱 I’m currently learning Fundamentels of Linux OS, DSA, Raspberry Pi and Front-End and then will carry on to Cyber-Security.
 
 
 ## 🌐 Socials:
